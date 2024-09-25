@@ -3,7 +3,8 @@
 <h1>Wide Oasis Website Description</h1>
 
  <p>
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mi neque, dictum aliquam diam eu, auctor ultricies lacus. Maecenas sollicitudin varius rhoncus. Donec semper ligula dapibus justo placerat, eget pretium lectus luctus. Praesent sagittis, nisl a placerat vehicula, ante tellus finibus lectus, sit amet commodo erat erat et felis. Phasellus commodo condimentum ligula. Cras ut lobortis dui. Curabitur facilisis sem ac interdum rhoncus. Etiam aliquet velit sed sem maximus dictum. Curabitur scelerisque turpis quis mi tempor consequat. Quisque faucibus iaculis faucibus.
+  Wide Oasis was created using React and Node for Backend for data will be saved using third party Database Supabase.
+  Before Using This Website You Must Login or SignUp First. After You Created User and Login, you can reserve cabins but if suddenly for some Reason You change your mind then you can cancel reservation in Guest Area Option
  </p>
 <br><br>
 
